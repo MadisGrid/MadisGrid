@@ -4,12 +4,16 @@ I'm Software Engineer and and 3D Model Designer from Oahu, Hawaii, working in 3D
 
 My experience has been interning on-site at NASA Johnson Space Center working with Projects involving NASA's Metaverse project and creating models for NASA's Virturality Simulations for testing for future mars missions. I have worked actively with Blender, Unreal Engine & Unity to create photo realistic VR Simulations.
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="hhttps://github-readme-stats.vercel.app/api?username=MadisGrid&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadisGrid" />
-</a>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=MadisGrid&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=MadisGrid&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=MadisGrid&show_icons=true" />
+</picture>
 
 
