@@ -16,6 +16,6 @@ My experience has been interning on-site at NASA Johnson Space Center working wi
 <img src="https://github-readme-stats.vercel.app/api?username=MadisGrid&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadisGrid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadisGrid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
