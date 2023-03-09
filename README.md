@@ -19,3 +19,12 @@ My experience has been interning on-site at NASA Johnson Space Center working wi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadisGrid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadisGrid&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadisGrid&layout=compact&theme=dark" />
+</a>
+
+
