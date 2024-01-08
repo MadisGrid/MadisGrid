@@ -2,7 +2,7 @@
 
 # Hi, I'm Madi!
 
-I'm Software Engineer and and 3D Model Designer from Oahu, Hawaii, working in 3D Modeling and Programming. I enjoy making intuitive programs and creating 3D models in Blender for VR applications. I am persuing a Software Engineering degree in hopes to further my current career.
+I'm Future Software Engineer and and 3D Model Designer from Oahu, Hawaii, working in 3D Modeling and Programming. I enjoy making intuitive programs and creating 3D models in Blender for VR applications. I am persuing a Software Engineering degree in hopes to further my current career.
 
 # My Github Stats
 
